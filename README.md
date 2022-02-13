@@ -41,7 +41,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/Wizard-Ser/github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/Wizard-Ser?organization=Anu00123&organization=Anu00123/github.com/Anu00123/Wizard-Ser/github.com/Ajmal-Achu/Wizard-Ser) 
 ----------
 
 
